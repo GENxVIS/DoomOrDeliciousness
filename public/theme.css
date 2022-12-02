@@ -152,3 +152,17 @@ nav.pagination a {
 }
 /* Your custom styles goes here */
 
+
+.info .date {
+    display: none;
+  }
+
+  body {
+    /* background: #050505; */
+    background: #222;
+  }
+  
+  h1 a, .breadcrumb-item, footer p {
+    color: #ddd;
+  }
+
